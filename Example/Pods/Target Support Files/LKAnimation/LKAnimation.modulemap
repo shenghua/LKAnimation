@@ -1,0 +1,6 @@
+framework module LKAnimation {
+  umbrella header "LKAnimation-umbrella.h"
+
+  export *
+  module * { export * }
+}

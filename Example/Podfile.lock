@@ -1,0 +1,16 @@
+PODS:
+  - LKAnimation (0.1.0)
+
+DEPENDENCIES:
+  - LKAnimation (from `../`)
+
+EXTERNAL SOURCES:
+  LKAnimation:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LKAnimation: 1ec6fe7f6796f4058fec11439d294ba86907d22e
+
+PODFILE CHECKSUM: 4f369e8ae1808cedce714d9937197cb68648af5f
+
+COCOAPODS: 1.1.1

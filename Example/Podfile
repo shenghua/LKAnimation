@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LKAnimation_Example' do
+  pod 'LKAnimation', :path => '../'
+
+  target 'LKAnimation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
