@@ -22,7 +22,7 @@ pod 'LKAnimation'
 
 ## Author
 
-shenghua, wangshenghua@imobpay.com
+ledka, wangshavl@163.com
 
 ## License
 
